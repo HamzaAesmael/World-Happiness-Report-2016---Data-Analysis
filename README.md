@@ -6,6 +6,9 @@
 
 A comprehensive data analysis project exploring the 2016 World Happiness Report dataset. This project demonstrates data cleaning, exploratory data analysis, visualization, and dashboard creation.
 
+**world gdp map **
+file:///Users/hamza/Desktop/py4e/Coursera/IBM/happiest/visualizations/world_gdp_map.html
+
 ## 📊 Project Overview
 
 This project analyzes the factors that contribute to happiness across 157 countries using the 2016 World Happiness Report dataset. The analysis includes:
