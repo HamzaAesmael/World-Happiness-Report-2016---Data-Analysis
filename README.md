@@ -6,9 +6,6 @@
 
 A comprehensive data analysis project exploring the 2016 World Happiness Report dataset. This project demonstrates data cleaning, exploratory data analysis, visualization, and dashboard creation.
 
-happiness_dashboard 
-
- file:///Users/hamza/Desktop/py4e/Coursera/IBM/happiest/visualizations/happiness_dashboard.png
 ## 📊 Project Overview
 
 This project analyzes the factors that contribute to happiness across 157 countries using the 2016 World Happiness Report dataset. The analysis includes:
